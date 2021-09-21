@@ -11,4 +11,6 @@ f) Ligação dos repositórios local e remoto (online) utilizando o comando git 
 g) Publicação das alterações no repositório remoto com o comando git push -u origin master
 h) Alterações realizadas no repositório remoto (arquivo Readme criado) foram baixadas no repositório local por meio do comando git pull
 i) Alterações realizadas no repositório local foram enviadas ao repositório remoto utilizando o comando git push 
+j) Criação de duas branch utilizando o comando git checkout -b
+k) Simulação de demarcação de pontos no código usando tag por meio do comando git tag -a V1.0 -m
 
